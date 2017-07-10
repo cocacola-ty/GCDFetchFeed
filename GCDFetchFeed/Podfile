@@ -10,6 +10,6 @@ target 'GCDFetchFeed' do
 	pod 'AFNetworking'
 	pod 'DTCoreText'
 	pod 'FMDB'
-	pod 'ReactiveCocoa'
+	pod 'ReactiveObjC'
 	pod 'FDFullscreenPopGesture'
 end

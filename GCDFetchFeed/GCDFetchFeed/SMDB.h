@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 #import <FMDB/FMDB.h>
-#import <ReactiveCocoa/ReactiveCocoa.h>
-#import <ReactiveCocoa/RACEXTScope.h>
+#import <ReactiveObjC/ReactiveObjc.h>
+#import <ReactiveObjC/RACEXTScope.h>
 #import "SMFeedModel.h"
 
 #define PATH_OF_APP_HOME    NSHomeDirectory()

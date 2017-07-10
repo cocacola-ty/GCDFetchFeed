@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 #import <AFNetworking/AFNetworking.h>
-#import <ReactiveCocoa/ReactiveCocoa.h>
-#import <ReactiveCocoa/RACEXTScope.h>
+#import <ReactiveObjC/RReactiveObjC.h>
+#import <ReactiveObjC/RACEXTScope.h>
 
 @interface SMNetManager : AFHTTPSessionManager
 
